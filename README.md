@@ -19,23 +19,23 @@
 <p>silahkan ketik perintah ini ke dalam terminal anda untuk menentukan directory aplikasi yang akan di clone</p>
 
 ```glsl
-***cd documents***
+cd documents***
 ```
 
 ```glsl
-**git clone** https://github.com/alwinfau/crud-fundamental-laravel.git
+git clone** https://github.com/alwinfau/crud-fundamental-laravel.git
 ```
 
 kemudian silahkan ketikan perintah dibawah ini untuk masuk ke aplikasi yang sudah di clone
 
 ```glsl
-**cd crud-fundamental-laravel** ->enter
+cd crud-fundamental-laravel ->enter
 
-**composer install** ->enter
+composer install ->enter
 
-**cp .env.example .env** ->enter
+cp .env.example .env ->enter
 
-**php artisan key:generate** ->enter
+php artisan key:generate ->enter
 ```
 
 silahkan buka [**localhost/phpmyadmin**](http://localhost/phpmyadmin) di browser untuk membuat database. setelah terbuka phpmyadmin silahkan buat database dengan nama ************************app_test************************
@@ -45,9 +45,9 @@ silahkan buka programmnya ke editor yang digunakan seperti: visual studio code ,
 setting file **.env**  untuk konfigurasi database yang sudah dibuat. setelah di konfigurasi databasenya baru jalankan perintah dibawah ini:
 
 ```glsl
-**php artisan migrate** ->enter
+php artisan migrate ->enter
 
-**php artisan serve** ->enter
+php artisan serve ->enter
 ```
 
 ## About Laravel
