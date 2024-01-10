@@ -19,7 +19,7 @@
 <p>silahkan ketik perintah ini ke dalam terminal anda untuk menentukan directory aplikasi yang akan di clone</p>
 
 ```glsl
-cd documents***
+cd documents
 ```
 
 ```glsl
