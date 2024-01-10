@@ -15,12 +15,17 @@
 
 ****************git bash****************
 
-**************************local disk C/users/fujitsu/documents/**************************
-<p>silahkan ketik perintah ini ke dalam terminal anda untuk menentukan directory aplikasi yang akan di clone</p>
+****************silahkan buat sebuah folder didalam local disk C dengan nama folder buat menggunakan **nama kalian sendiri** ****************
+
+****************silahkan masuk ke local disk dengan perintah perintah seperti dibawah ini****************
 
 ```glsl
-cd documents ->enter
+cd c:/ ->enter
+
+cd nama folder yang kalian buat tadi ->enter
 ```
+
+<p>silahkan ketik perintah ini ke dalam terminal anda untuk menentukan directory aplikasi yang akan di clone</p>
 
 ```glsl
 git clone https://github.com/alwinfau/crud-fundamental-laravel.git ->enter
