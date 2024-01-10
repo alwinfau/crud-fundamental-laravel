@@ -15,7 +15,7 @@
 
 ****************git bash****************
 
-****************silahkan buat sebuah folder didalam local disk C dengan nama folder buat menggunakan **nama kalian sendiri** ****************
+<p>silahkan buat sebuah folder didalam local disk C dengan nama folder buat menggunakan **nama kalian sendiri</p>
 
 ****************silahkan masuk ke local disk dengan perintah perintah seperti dibawah ini****************
 
