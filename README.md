@@ -19,11 +19,11 @@
 <p>silahkan ketik perintah ini ke dalam terminal anda untuk menentukan directory aplikasi yang akan di clone</p>
 
 ```glsl
-cd documents
+cd documents ->enter
 ```
 
 ```glsl
-git clone https://github.com/alwinfau/crud-fundamental-laravel.git
+git clone https://github.com/alwinfau/crud-fundamental-laravel.git ->enter
 ```
 
 kemudian silahkan ketikan perintah dibawah ini untuk masuk ke aplikasi yang sudah di clone
