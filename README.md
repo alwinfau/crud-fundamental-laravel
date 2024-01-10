@@ -23,7 +23,7 @@ cd documents***
 ```
 
 ```glsl
-git clone** https://github.com/alwinfau/crud-fundamental-laravel.git
+git clone https://github.com/alwinfau/crud-fundamental-laravel.git
 ```
 
 kemudian silahkan ketikan perintah dibawah ini untuk masuk ke aplikasi yang sudah di clone
